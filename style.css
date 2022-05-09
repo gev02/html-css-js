@@ -3,16 +3,16 @@ body {
   }
   
   h1 {
-    color:red;
+    color:black;
     text-align: center;
   }
 
-  .rojo{
-    background-color: red;
+  .morado{
+    background-color:purple;
   }
   
-  .negrita {
-    font-weight: bold;
+  .azul {
+    color:blue;
   }
   p {
     font-family: verdana;
