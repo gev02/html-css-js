@@ -1,12 +1,19 @@
 body {
-    background-color: lightblue;
+    background-color: blue;
   }
   
   h1 {
     color:red;
     text-align: center;
   }
+
+  .rojo{
+    background-color: red;
+  }
   
+  .negrita {
+    font-weight: bold;
+  }
   p {
     font-family: verdana;
     font-size: 20px;
